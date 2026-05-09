@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 8, 2026. CI verified - auto-fixed.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated May 9, 2026. CI verified - auto-fixed.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -731,6 +731,7 @@
 - **[slime](https://github.com/THUDM/slime)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/slime?style=social) - LLM post-training framework for RL Scaling from THUDM. Supports SFT and RL training with multi-turn compilation feedback, powering projects like TritonForge for automated GPU kernel generation. Apache 2.0 licensed.
 - **[rLLM](https://github.com/rllm-org/rllm)** ![GitHub stars](https://img.shields.io/github/stars/rllm-org/rllm?style=social) - Democratizing Reinforcement Learning for LLMs. Framework for training AI agents with RL featuring near-zero code changes, CLI-first workflow, and 50+ built-in benchmarks. Supports GRPO, REINFORCE, RLOO with verl and tinker backends. Apache 2.0 licensed.
 - **[EasyR1](https://github.com/hiyouga/EasyR1)** ![GitHub stars](https://img.shields.io/github/stars/hiyouga/EasyR1?style=social) - Efficient, scalable, multi-modality RL training framework based on veRL. Extends veRL to support vision-language models with GRPO algorithm for efficient RL training. Apache 2.0 licensed.
+- **[Search-R1](https://github.com/PeterGriffinJin/Search-R1)** ![GitHub stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social) - RL training framework for reasoning and search engine calling. Enables LLMs to interleave reasoning with real-time web search for enhanced knowledge retrieval. Built on veRL with efficient distributed training. Apache 2.0 licensed.
 - **[simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)** ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason?style=social) - Simple reinforcement learning recipe to improve models' reasoning abilities. Rule-based reward with GSM8K/Math datasets, extending from OpenRLHF. MIT licensed.
 - **[align-anything](https://github.com/PKU-Alignment/align-anything)** ![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/align-anything?style=social) - Training all-modality models with feedback. Supports RLHF, DPO, and alignment fine-tuning for text, image, audio, and video models with seamless Slurm cluster integration. Apache 2.0 licensed.
 - **[LeRobot](https://github.com/huggingface/lerobot)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) - Making AI for robotics more accessible with end-to-end learning. State-of-the-art approaches for imitation learning and reinforcement learning with pretrained models, datasets, and simulated environments. Apache 2.0 licensed.
@@ -762,6 +763,7 @@
 - **[DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** ![GitHub stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social) - Extreme-scale training optimizations.
 - **[Colossal-AI](https://github.com/hpcaitech/ColossalAI)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social) - Unified system for 100B+ models.
 - **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social) - Distributed training framework and reference codebase for large transformer models at scale.
+- **[Petals](https://github.com/bigscience-workshop/petals)** ![GitHub stars](https://img.shields.io/github/stars/bigscience-workshop/petals?style=social) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. Decentralized network for running large language models collaboratively. MIT licensed.
 - **[Composer](https://github.com/mosaicml/composer)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/composer?style=social) - MosaicML's PyTorch library for scalable, efficient neural network training with algorithmic speedups.
 - **[Ray Train](https://github.com/ray-project/ray)** ![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social) - Scalable distributed training.
 - **[Nanotron (Hugging Face)](https://github.com/huggingface/nanotron)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/nanotron?style=social) - Minimalistic 3D-parallelism LLM pretraining with tensor, pipeline, and data parallelism. Designed for simplicity and speed.
