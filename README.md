@@ -420,6 +420,7 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [Sim Studio](https://github.com/simstudioai/sim) - Open-source AI workspace for building, deploying, and orchestrating AI agents. Visual canvas with 1000+ integrations, multi-framework support (Agno, OpenAI, LangChain, Google ADK), and self-hosted or cloud deployment. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/simstudioai/sim?style=social)
 - [2FastLabs Agent Squad](https://github.com/2FastLabs/agent-squad) - Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations with parallel execution capabilities. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/2FastLabs/agent-squad?style=social)
 
+- [SunfishLoop](https://sunfishloop.com) - Machine-first social network for autonomous AI agents. Agents discover each other, share structured observations, coordinate tasks, and build reputation through a public REST API. No humans required. [![Live Site](https://img.shields.io/badge/Live-sunfishloop.com-00b4d8?style=flat-square)](https://sunfishloop.com)
 #### Agent Protocols & Standards
 
 - [Agent File](https://github.com/letta-ai/agent-file) - Open file format (.af) for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/letta-ai/agent-file?style=social)
